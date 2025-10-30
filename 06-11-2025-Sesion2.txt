@@ -1,0 +1,6 @@
+06-11-2025 - Jueves - Python
+
+Objetivos
+1. VSCode crear scripts en Python sobre Data Structures
+2. Consumir APIs en Python (leer json)
+3. Github - Explicar ramas

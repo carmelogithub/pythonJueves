@@ -137,11 +137,20 @@ Tema 5 de Data Structures en Python
 Github
 https://github.com/carmelogithub
 
+-------------Qué es una API----------
+API (2)
+1. conjunto de herramienta
+la API de java 21 incorpora librerías para analítica de datos
+java21 tiene librerías (archivos con clases métodos,..funcionalides)
 
+2. API Rest
+tienes datos en una fuente de datos(base de datos, archivo, repositorio, data Lake...)
+quieres acceder a esos datos(2)
+a. librería de conexión, usuario y contraseña, base de datos, tabla
+b. te doy los datos con un sistema APIRest (json)
 
-
-
-
+Ejercicio.
+En Python, consumir una API y pintarla en pantalla.
 
 
 

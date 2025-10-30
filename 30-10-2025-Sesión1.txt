@@ -1,0 +1,148 @@
+Sesión jueves 30-10-2025
+
+Entornos de desarrollo
+Qué tipos de lenguajes de programación - Pila FullStack
+frontend vs backend
+Qué es API
+Python - Primeros pasos
+Control de versiones - Git - Github
+
+----------------------------------------------
+Backend
+Oracle--
+lenguaje de programación Java (creado SunMicrosystem)
+entorno de desarrollo - oracle NetBeans
+bases de datos MySQL - Oracle
+
+Microsoft --
+lenguaje de programación VB.NET - C#
+entorno de desarrollo - Visual Studio
+bases de datos SQL Server
+
+lenguaje de programación PHP
+Base de datos MySQL
+Wordpress - Joomla - PrestaShop
+
+Frontend
+Escritorio - Web - apps Android IOS
+HTML + CSS + JavaScript
+Framework : Angular - React - Vue - Svlete - Astro
+
+
+---------------------------------------
+Entornos de desarrollo para trabajar
+
+Eclipse - java - c++ - php
+https://www.eclipse.org/downloads/
+
+NetBeans - oracle
+https://www.oracle.com/es/tools/technologies/netbeans-ide.html
+
+JetBrains
+https://www.jetbrains.com/es-es/
+entornos para diferentes lenguajes
+
+Editor de código
+Notepad++
+EditPlus
+Sublime Text
+Brackets
+Visual Studio Code - desarrollado por Microsoft
+
+---------------------------
+Primeros pasos en Python con VSCode
+1.Descargar VSCode
+
+https://code.visualstudio.com/Download
+
+2.programar en Python.
+Necesitas Python
+https://www.python.org/downloads/
+
+-----------------------------
+
+Crear un proyecto en VSCode para Python
+File - Open Folder
+
+Nombre de carpeta, archivos....
+Muy problemático poner espacios en blanco, ñ, tildes
+Usar una nomenclatura
+El primer archivo se llama teoria.py
+
+
+Escribir código Python(3)
+1. código escrito todo por el programador
+2. código escrito por programador + sugerencias de Intellisense
+(hay que activar extensiones)
+3. código generador por IAs (vibe Coding)
+
+Recursos para aprender Python
+documentación oficial de Python
+https://docs.python.org/3/
+
+variable - almacenar un valor temporalmente hasta que se cierra el programa
+la variable es diferente en función del tipo de dato a guardar
+entero, decimal, texto, boolean, lista de colores..
+función agrupa un conjunto de instrucciones
+
+Python tiene métodos que permiten realizar tareas.
+input() pide un dato por consola
+
+nombre="juan"
+llamar()
+
+---------------
+lenguaje indentado - con sangrías - Python
+
+def saludar():
+	print("hola")
+
+saludar()
+
+----
+lenguaje NO indentando, java, c#, javascript
+
+function saludar(){
+print("hola");
+}
+
+saludar();
+
+
+-------
+VSCode - Run file - Ejecuta Python
+VSCode debe localizar arhivo que permite ejecutar Python (intérprete) - python.exe
+Has creado una variable de entorno en donde le dices al sistema operativo dónde está el intérprete de Pyhton.
+Comprobación.
+Abres las variables de entorno
+
+python.exe teoria.py
+
+
+-----------------
+
+Data Structures - Tema 5
+https://docs.python.org/es/3.14/tutorial/datastructures.html
+
+variable
+unidades=15 #silla que guarda un único valor
+
+notas - 7 8 6.5 9.45 6 #banco de valores
+
+
+Siguiente sesión 06/11/2025 presencial
+Objetivo.
+Tema 5 de Data Structures en Python
+
+Github
+https://github.com/carmelogithub
+
+
+
+
+
+
+
+
+
+
